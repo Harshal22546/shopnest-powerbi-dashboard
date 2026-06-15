@@ -20,5 +20,4 @@ Retail sales analysis dashboard created using Power BI.
 - State-wise sales
 
 ## Dashboard Preview
-
-(Add screenshots)
+<img width="1345" height="736" alt="Screenshot_20260615223454" src="https://github.com/user-attachments/assets/06203f13-54c2-4439-9f41-571f5080dbee" />
